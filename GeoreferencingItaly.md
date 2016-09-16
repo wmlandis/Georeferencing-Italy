@@ -9,6 +9,7 @@
   * Italy regional borders (adm1)
   * Italy provincial borders (adm2)
   * Italy commune borders (adm3)
+  ![screenshot](https://github.com/wmlandis/Georeferencing-Italy/blob/master/Screen%20Shot%201.png)
 3. Change the appearance of these shapefiles as needed (you may want to go back later and change these settings to make geo-referencing simpler).
   * For each of these layers except adm0, you may want to add labels. Remember, you can select and unselect them by checking the box next to their name in your layers panel. This may make geo-referencing easier as you look for specific points.
 4. Download *"Kitchen1784"* TIFF file from my Github repository (wmlandis), Geo-referencing Italy
