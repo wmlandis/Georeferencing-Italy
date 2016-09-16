@@ -10,8 +10,9 @@
   * Italy provincial borders (adm2)
   * Italy commune borders (adm3)
 3. Change the appearance of these shapefiles as needed (you may want to go back later and change these settings to make geo-referencing simpler).
-  * For each of these layers except adm0, you may want to add labels. Remember, you select and unselect them by checking the box next to their name in your layers panel. This may make geo-referencing easier as you look for specific points.
+  * For each of these layers except adm0, you may want to add labels. Remember, you can select and unselect them by checking the box next to their name in your layers panel. This may make geo-referencing easier as you look for specific points.
 4. Download *"Kitchen1784"* TIFF file from my Github repository (wmlandis), Geo-referencing Italy
+ ![kitchen1784](https://github.com/wmlandis/Georeferencing-Italy/blob/master/Kitchen1784.jpg)
 5. Use the georeferencer to add the TIFF file as a raster layer and add 6 or more control points
   * Be mindful of the historical context of the map. "Italy" was not a unified country in 1784, so manmade borders are not good points to use for geo-referencing.
   * Use large cities or other precise locations: the locations of cities are least likely to change.
