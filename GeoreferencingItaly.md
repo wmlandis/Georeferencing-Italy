@@ -19,6 +19,8 @@
   * Use large cities or other precise locations: the locations of cities are least likely to change.
   * Remember, coastlines are also subject to change.
   * Make sure your 6 points are spread out over the entire map area
+  In this screenshot, you can see that I have located Rome in both maps and used that as a point:
+![rome](https://github.com/wmlandis/Georeferencing-Italy/blob/master/Screen%20Shot%201.png)
 6. Remember to specify your transformation settings and then click the georeferencer.
 7. Compare your geo-referenced map to the shapefile. You can make this easier by thickening the borders or changing their color in their properties (right-click on them in your layers panel and select properties). You should expect to see some minor discrepancies between your shapefile and the map from 1784. Map-making is an imperfect art, and coastlines and borders change over time.
 
