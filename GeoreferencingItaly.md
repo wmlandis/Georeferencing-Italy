@@ -18,7 +18,7 @@
   * Be mindful of the historical context of the map. "Italy" was not a unified country in 1784, so manmade national borders are not good points to use for geo-referencing.
   * Use large cities or other precise locations: the locations of cities are least likely to have changed over time.
   * Remember, coastlines are also subject to change over time.
-  * Make sure your 6 points are spread out over the entire map area
+  * Make sure your 6 points are spread out over the entire map area.
   *In this screenshot, you can see that I have located Rome in both maps and used that as a point:*
 ![rome](https://github.com/wmlandis/Georeferencing-Italy/blob/master/Screen%20Shot%202.png)
 *In this screenshot, you can see where my points were right before I georeferenced the map:*
